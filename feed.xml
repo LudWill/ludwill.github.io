@@ -1,1 +1,11 @@
+<item>
+  <title>EP 001 - Ranking Podcast</title>
+  <description><![CDATA[Episode description here.]]></description>
+  <pubDate>Thu, 02 Jan 2026 16:48:00 GMT</pubDate>
+  <guid isPermaLink="false">ep-001</guid>
 
+  <enclosure
+    url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-001/3mCM9bFjXmo.mp3"
+    length="17842633"
+    type="audio/mpeg" />
+</item>
