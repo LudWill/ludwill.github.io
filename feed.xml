@@ -1,26 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ranking Podcast</title>
     <link>https://ludwill.github.io/</link>
     <description>Ranking Podcast feed.</description>
     <language>pt-BR</language>
 
-    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:explicit>false</itunes:explicit>
+    <ns0:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <ns1:explicit>false</ns1:explicit>
 
-    <item>
+    <item><title>3mCM9bFjXmo</title><description>3mCM9bFjXmo</description><pubDate>Fri, 02 Jan 2026 21:59:44 GMT</pubDate><guid isPermaLink="false">21fcccd5d6daaaed54e277bfc83a703f6a869c1e</guid><enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-1767391180/3mCM9bFjXmo.mp3" length="17842633" type="audio/mpeg" /></item><item>
       <title>EP 001 - Ranking Podcast</title>
-      <description><![CDATA[Episode description here.]]></description>
+      <description>Episode description here.</description>
       <pubDate>Thu, 02 Jan 2026 16:48:00 GMT</pubDate>
       <guid isPermaLink="false">ep-001</guid>
 
-      <enclosure
-        url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-001/3mCM9bFjXmo.mp3"
-        length="17842633"
-        type="audio/mpeg" />
+      <enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-001/3mCM9bFjXmo.mp3" length="17842633" type="audio/mpeg" />
     </item>
 
   </channel>
