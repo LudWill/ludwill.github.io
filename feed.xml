@@ -1,19 +1,33 @@
-<title>Ranking Podcast</title>
-<link>https://ludwill.github.io/</link>
-<description>Ranking Podcast feed.</description>
-<language>pt-BR</language>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Ranking Podcast</title>
+    <link>https://ludwill.github.io/</link>
+    <description>Ranking Podcast feed.</description>
+    <language>pt-BR</language>
 
-<atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
 
-<itunes:author>Ranking</itunes:author>
-<itunes:explicit>false</itunes:explicit>
-<itunes:image href="https://ludwill.github.io/cover.png"/>
+    <itunes:author>Ranking</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://ludwill.github.io/cover.png"/>
 
-<itunes:owner>
-  <itunes:name>Ranking</itunes:name>
-  <itunes:email>comunicacao@politicos.org.br</itunes:email>
-</itunes:owner>
+    <itunes:owner>
+      <itunes:name>Ranking</itunes:name>
+      <itunes:email>comunicacao@politicos.org.br</itunes:email>
+    </itunes:owner>
 
-    
-  <item><title>Ir</title><description>Ir</description><pubDate>Mon, 05 Jan 2026 18:52:37 GMT</pubDate><guid isPermaLink="false">430bf99b0345515484b9ea6d387946f36fc54410</guid><enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-1767639154/Ir.mp3" length="3255380" type="audio/mpeg" /></item></channel>
+    <item>
+      <title>Ir</title>
+      <description>Ir</description>
+      <pubDate>Mon, 05 Jan 2026 18:52:37 GMT</pubDate>
+      <guid isPermaLink="false">430bf99b0345515484b9ea6d387946f36fc54410</guid>
+      <enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-1767639154/Ir.mp3"
+                 length="3255380"
+                 type="audio/mpeg"/>
+    </item>
+
+  </channel>
 </rss>
