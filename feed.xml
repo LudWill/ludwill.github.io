@@ -1,23 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ranking Podcast</title>
     <link>https://ludwill.github.io/</link>
     <description>Ranking Podcast feed.</description>
     <language>pt-BR</language>
 
-    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml" />
 
     <itunes:author>Ranking</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://ludwill.github.io/cover.png"/>
+    <itunes:image href="https://ludwill.github.io/cover.png" />
 
     <itunes:owner>
       <itunes:name>Ranking</itunes:name>
       <itunes:email>comunicacao@politicos.org.br</itunes:email>
     </itunes:owner>
 
-  </channel>
+  <item><title>APROVADA isenção do IR até R$ 5 mil (medida excelente)</title><description>APROVADA a isenção do IR até R$ 5 mil. Ótima medida do governo que já deveria ter sido feita há anos. Mas a contrapartida, que deveria ser corte de gastos do governo para equilibrar as contas, vai se tornar um novo imposto (que não vai tapar o buraco).
+
+Confira no vídeo de @aleostrowicki (insta)
+
+Apoie o Ranking dos Políticos: politicos.org.br/apoie</description><pubDate>Mon, 05 Jan 2026 21:14:04 GMT</pubDate><guid isPermaLink="false">9d44c3af014becfc8ce0cae948492e806825f6e3</guid><enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-1767647642/uHkjRfqBKQI.mp3" length="3133995" type="audio/mpeg" /></item></channel>
 </rss>
