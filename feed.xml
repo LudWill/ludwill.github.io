@@ -3,12 +3,19 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Live Radar Político</title>
+    <title>Radar Politico</title>
     <link>https://ludwill.github.io/</link>
-    <description>Radar político feed.</description>
+    <description>Radar Politico Feed.</description>
     <language>pt-BR</language>
+
     <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:explicit>false</itunes:explicit>
-    <!-- items will be inserted below -->
+
+    <itunes:owner>
+      <itunes:name>Ranking</itunes:name>
+      <itunes:email>comunicacao@politicos.org.br</itunes:email>
+    </itunes:owner>
+
+    <!-- items will be inserted automatically -->
   </channel>
 </rss>
