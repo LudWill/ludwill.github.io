@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Ranking Podcast</title>
     <link>https://ludwill.github.io/</link>
     <description>Ranking Podcast feed.</description>
     <language>pt-BR</language>
 
-    <!-- Self link (good practice) -->
-    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <atom:link href="https://ludwill.github.io/feed.xml" rel="self" type="application/rss+xml" />
 
-    <!-- Spotify/Podcast directories metadata -->
+    
     <itunes:author>Ranking</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://ludwill.github.io/cover.png"/>
+    <itunes:image href="https://ludwill.github.io/cover.png" />
 
     <itunes:owner>
       <itunes:name>Ranking</itunes:name>
       <itunes:email>comunicacao@politicos.org.br</itunes:email>
     </itunes:owner>
 
-    <!-- Episodes (items). New ones should be inserted above older ones (newest first). -->
+    
 
-  </channel>
+  <item><title>Ir</title><description>Ir</description><pubDate>Mon, 05 Jan 2026 20:35:51 GMT</pubDate><guid isPermaLink="false">430bf99b0345515484b9ea6d387946f36fc54410</guid><enclosure url="https://github.com/LudWill/ludwill.github.io/releases/download/ep-1767645349/Ir.mp3" length="3255380" type="audio/mpeg" /></item></channel>
 </rss>
